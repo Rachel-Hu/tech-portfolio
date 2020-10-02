@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Ruiqi Hu', // Title for your website.
-    tagline: 'MS ECE @ CMU, nalytical software engineer',
+    tagline: 'MS ECE @ CMU, analytical software engineer',
     profilePhoto: 'img/profile.png',
     url: 'https://Rachel-Hu.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
@@ -68,7 +68,7 @@ const siteConfig = {
 
     socialMedia: {
         linkedin: 'ruiqi-hu',
-        twitter: '',
+        twitter: 'cypereae_ra',
         github: 'Rachel-Hu',
     },
 
