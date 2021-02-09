@@ -29,7 +29,7 @@ Express, MongoDB, Django, MySQL, React, Laravel, bash, awk, Docker
 
 ### Software Engineer, Oracle America, Inc. 
 *Nov 2020 - Present*, Seattle, WA
-* Working on vitural machine availability auto repair for vitural machine infrastructure fleet management team
+* Working on vitural machine auto repair for vitural machine infrastructure fleet management team
 
 ### Software Engineer Intern, Intelligent Fusion Technology, Inc.
 *Jul 2020 – Nov 2020*, Germantown, MD
