@@ -26,8 +26,13 @@ Express, MongoDB, Django, MySQL, React, Laravel, bash, awk, Docker
 
 ## Experience
 
-### Software Engineer Intern, Intelligent Fusion Technology 
-*Jul 2020 – Present*, Germantown, MD
+
+### Software Engineer, Oracle America, Inc. 
+*Nov 2020 - Present*, Seattle, WA
+* Working on vitural machine availability auto repair for vitural machine infrastructure fleet management team
+
+### Software Engineer Intern, Intelligent Fusion Technology, Inc.
+*Jul 2020 – Nov 2020*, Germantown, MD
 * Creating web interfaces for two adversarial discriminative domain adaptation projects with real-time training, evaluation and data visualization
 * Implementing with React, Node.js, and WebSocket for real-time data transferring
 
